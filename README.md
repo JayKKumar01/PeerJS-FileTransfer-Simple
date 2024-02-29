@@ -1,7 +1,3 @@
-Certainly! Below is a template for a README.md file for your PeerJS File Transfer project. Feel free to customize it based on additional details or specific instructions you want to provide:
-
----
-
 # PeerJS File Transfer - Simple
 
 Welcome to the PeerJS File Transfer Simple project! This web application allows users to establish peer-to-peer connections and easily transfer files between devices. The live version of the website can be accessed at [https://jaykkumar01.github.io/PeerJS-FileTransfer-Simple/](https://jaykkumar01.github.io/PeerJS-FileTransfer-Simple/).
